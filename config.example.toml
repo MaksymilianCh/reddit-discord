@@ -1,0 +1,11 @@
+[translator]
+api_endpoint = "https://simplytranslate.org/api/translate/"
+engine = "google"
+lang = "de"
+translation_warning = "Maschinenübersetzung"
+
+[video_processor]
+delete_after = true
+subreddit = "/r/cats/"
+user_agent = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.3"
+webhook_url = "https://discord.com/api/webhooks/"
